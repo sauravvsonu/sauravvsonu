@@ -12,6 +12,7 @@ I am a MME undergraduate at IIT Patna who loves programming, speaking, travellin
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on web and app development.
+- 👨🏻‍💻 I’m Python developer with two year experience.
 - 🚀 I’m also actively involved in competitive progamming.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: sauravvsonu@gmail.com
